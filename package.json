@@ -1,0 +1,17 @@
+{
+  "name": "kadra-astro",
+  "version": "0.0.1",
+  "description": "cv en ligne",
+  "main": "src/pages/index.astro",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "1.0.6",
+    "rehype-slug": "5.0.1"
+  },
+  "keywords": []
+}
